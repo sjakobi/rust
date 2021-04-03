@@ -1,9 +1,8 @@
-error[E0601]: `main` function not found in crate `issue_71471_ignore_tidy`
-  --> $DIR/issue-71471-ignore-tidy.rs:1:33
+error: expected `[`, found `B`
+  --> $DIR/issue-71471-ignore-tidy.rs:2:3
    |
 LL | #!B
-   |                                 ^ consider adding a `main` function to `$DIR/issue-71471-ignore-tidy.rs`
+   |   ^ expected `[`
 
 error: aborting due to previous error
 
-For more information about this error, try `rustc --explain E0601`.
