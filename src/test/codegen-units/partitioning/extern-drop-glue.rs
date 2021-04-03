@@ -1,4 +1,3 @@
-// ignore-tidy-linelength
 
 // We specify -C incremental here because we want to test the partitioning for
 // incremental compilation

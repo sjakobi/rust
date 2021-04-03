@@ -1,4 +1,3 @@
-// ignore-tidy-linelength
 
 // First a module with inner documentation
 

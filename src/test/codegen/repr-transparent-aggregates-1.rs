@@ -1,5 +1,4 @@
 // compile-flags: -C no-prepopulate-passes
-// ignore-tidy-linelength
 
 // min-system-llvm-version: 12.0
 // ignore-arm

@@ -1,4 +1,3 @@
-// ignore-tidy-linelength
 
 fn main() {
     println!(“hello world”);

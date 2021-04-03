@@ -1,4 +1,3 @@
-// ignore-tidy-linelength
 
 // Test that `#[rustc_*]` attributes are gated by `rustc_attrs` feature gate.
 

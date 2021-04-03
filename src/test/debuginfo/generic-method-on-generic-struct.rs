@@ -1,4 +1,3 @@
-// ignore-tidy-linelength
 
 // compile-flags:-g
 

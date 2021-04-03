@@ -1,4 +1,3 @@
-// ignore-tidy-linelength
 
 #![deny(deprecated_in_future)]
 

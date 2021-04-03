@@ -1,4 +1,3 @@
-// ignore-tidy-linelength
 
 #![feature(rustc_attrs)]
 

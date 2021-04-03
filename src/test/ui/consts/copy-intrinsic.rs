@@ -1,4 +1,3 @@
-// ignore-tidy-linelength
 #![feature(const_mut_refs, const_intrinsic_copy, const_ptr_offset)]
 use std::{ptr, mem};
 

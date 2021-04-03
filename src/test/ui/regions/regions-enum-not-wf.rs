@@ -1,4 +1,3 @@
-// ignore-tidy-linelength
 
 // Various examples of structs whose fields are not well-formed.
 

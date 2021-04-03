@@ -1,4 +1,3 @@
-// ignore-tidy-linelength
 
 fn foo() -> usize {
                                                                                                                                                                                           ()

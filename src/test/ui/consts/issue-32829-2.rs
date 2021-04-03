@@ -1,4 +1,3 @@
-// ignore-tidy-linelength
 
 const bad : u32 = {
     {

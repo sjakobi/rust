@@ -1,6 +1,5 @@
 // Test for #78438: ensure underline alignment with many tabs on the left, long line on the right
 
-// ignore-tidy-linelength
 // ignore-tidy-tab
 
 					fn main() {

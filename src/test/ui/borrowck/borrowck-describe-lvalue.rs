@@ -1,4 +1,3 @@
-// ignore-tidy-linelength
 
 pub struct Foo {
   x: u32

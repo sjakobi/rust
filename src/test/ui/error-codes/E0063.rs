@@ -1,4 +1,3 @@
-// ignore-tidy-linelength
 
 struct SingleFoo {
     x: i32

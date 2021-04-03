@@ -1,4 +1,3 @@
-// ignore-tidy-linelength
 
 use std::fmt;
 
