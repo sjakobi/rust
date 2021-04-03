@@ -1,4 +1,3 @@
-
 #![crate_name = "foo"]
 #![feature(doc_cfg)]
 

@@ -1,4 +1,3 @@
-
 struct S;
 
 impl S {

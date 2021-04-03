@@ -1,4 +1,3 @@
-
 #![crate_name = "foo"]
 
 #![doc(html_playground_url = "https://www.example.com/")]

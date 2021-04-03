@@ -1,4 +1,3 @@
-
 use std::fmt;
 
 // @has issue_29503/trait.MyTrait.html

@@ -1,5 +1,3 @@
-
-
 impl u8 {
 //~^ error: only a single inherent implementation marked with `#[lang = "u8"]` is allowed for the `u8` primitive
     pub const B: u8 = 0;

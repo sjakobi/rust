@@ -1,4 +1,3 @@
-
 #![crate_name = "foo"]
 
 #![unstable(feature = "humans",

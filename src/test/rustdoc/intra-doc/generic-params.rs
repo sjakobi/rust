@@ -1,4 +1,3 @@
-
 #![crate_name = "foo"]
 
 //! Here's a link to [`Vec<T>`] and one to [`Box<Vec<Option<T>>>`].

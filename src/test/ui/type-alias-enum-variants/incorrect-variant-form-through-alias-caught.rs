@@ -1,4 +1,3 @@
-
 // Check that creating/matching on an enum variant through an alias with
 // the wrong braced/unit form is caught as an error.
 

@@ -1,4 +1,3 @@
-
 #![feature(rustc_attrs)]
 
 pub mod Bar {

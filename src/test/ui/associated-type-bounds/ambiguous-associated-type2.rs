@@ -1,4 +1,3 @@
-
 trait Foo {
     type Item;
 }

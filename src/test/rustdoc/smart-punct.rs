@@ -1,4 +1,3 @@
-
 #![crate_name = "foo"]
 
 //! This is the "start" of the 'document'! How'd you know that "it's" the start?

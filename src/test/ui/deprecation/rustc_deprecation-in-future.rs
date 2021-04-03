@@ -1,4 +1,3 @@
-
 #![deny(deprecated_in_future)]
 
 #![feature(staged_api)]

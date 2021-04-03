@@ -1,4 +1,3 @@
-
 union U1 { // OK
     a: u8,
 }

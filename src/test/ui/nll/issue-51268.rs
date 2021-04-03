@@ -1,4 +1,3 @@
-
 struct Bar;
 
 impl Bar {

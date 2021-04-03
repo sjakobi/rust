@@ -1,4 +1,3 @@
-
 // #26207: Show all methods reachable via Deref impls, recursing through multiple dereferencing
 // levels and across multiple crates.
 

@@ -1,4 +1,3 @@
-
 // regression test for #26376
 
 trait Foo {

@@ -1,4 +1,3 @@
-
 #[derive(Clone, Copy)]
 union U {
     a: u8,

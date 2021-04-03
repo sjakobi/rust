@@ -1,4 +1,3 @@
-
 #![feature(const_generics)]
 
 #![crate_name = "foo"]

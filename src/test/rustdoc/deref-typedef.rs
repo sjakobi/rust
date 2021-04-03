@@ -1,4 +1,3 @@
-
 #![crate_name = "foo"]
 
 // @has 'foo/struct.Bar.html'

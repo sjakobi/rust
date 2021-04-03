@@ -1,4 +1,3 @@
-
 #![deny(warnings)]
 
 struct Borked {}

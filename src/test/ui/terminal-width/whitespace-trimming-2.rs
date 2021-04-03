@@ -1,4 +1,3 @@
-
 fn foo() -> usize {
                                                                                                                                                                                           ()
 //~^ ERROR mismatched types

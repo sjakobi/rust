@@ -1,4 +1,3 @@
-
 // aux-build:two_macros.rs
 // compile-flags:--extern non_existent
 

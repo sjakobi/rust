@@ -1,4 +1,3 @@
-
 struct SingleFoo {
     x: i32
 }

@@ -1,4 +1,3 @@
-
 const QUERY = ['summaries', 'summaries::Sidebar', 'summaries::Sidebar2'];
 
 const EXPECTED = [
