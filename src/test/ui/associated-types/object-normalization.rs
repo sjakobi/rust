@@ -1,3 +1,5 @@
+// ignore-tidy-linelength
+
 // Check that we normalize super predicates for object candidates.
 
 // check-pass

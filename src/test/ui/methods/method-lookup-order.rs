@@ -1,3 +1,5 @@
+// ignore-tidy-linelength
+
 // run-pass
 
 // There are five cfg's below. I explored the set of all non-empty combinations

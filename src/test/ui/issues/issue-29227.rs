@@ -1,4 +1,5 @@
 // run-pass
+// ignore-tidy-linelength
 
 // Regression test for #29227. The problem here was that MIR
 // construction for these gigantic match expressions was very

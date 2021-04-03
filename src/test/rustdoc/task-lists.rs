@@ -1,3 +1,4 @@
+// ignore-tidy-linelength
 // FIXME: this doesn't test as much as I'd like; ideally it would have these query too:
   // has task_lists/index.html '//li/input[@type="checkbox" and disabled]/following-sibling::text()' 'a'
   // has task_lists/index.html '//li/input[@type="checkbox"]/following-sibling::text()' 'b'

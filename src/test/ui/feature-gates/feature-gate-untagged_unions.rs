@@ -1,3 +1,5 @@
+// ignore-tidy-linelength
+
 union U1 { // OK
     a: u8,
 }
