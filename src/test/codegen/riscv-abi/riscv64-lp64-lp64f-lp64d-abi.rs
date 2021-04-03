@@ -1,3 +1,4 @@
+//
 // compile-flags: -C no-prepopulate-passes
 // only-riscv64
 // only-linux

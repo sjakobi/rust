@@ -2,6 +2,7 @@
 // "tune-cpu" attribute in LLVM.
 
 // no-prefer-dynamic
+//
 // compile-flags: -C no-prepopulate-passes -C panic=abort -C linker-plugin-lto -Cpasses=name-anon-globals -Z tune-cpu=generic
 
 #![crate_type = "staticlib"]

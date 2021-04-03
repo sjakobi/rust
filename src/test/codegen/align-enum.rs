@@ -1,4 +1,5 @@
 // compile-flags: -C no-prepopulate-passes -Z mir-opt-level=0
+//
 
 #![crate_type = "lib"]
 

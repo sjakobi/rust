@@ -3,6 +3,7 @@
 //  - The generator types and variants are marked artificial
 //  - Captured vars from the source are not marked artificial
 //
+//
 // compile-flags: -C debuginfo=2
 // only-msvc
 

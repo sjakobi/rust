@@ -1,3 +1,4 @@
+//
 // compile-flags: -Z instrument-mcount
 
 #![crate_type = "lib"]

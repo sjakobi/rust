@@ -1,4 +1,5 @@
 // compile-flags: -C no-prepopulate-passes
+//
 
 #![crate_type = "lib"]
 
